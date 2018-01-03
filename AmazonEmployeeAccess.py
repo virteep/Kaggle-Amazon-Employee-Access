@@ -1,11 +1,4 @@
-"""
-    author: Prajakta Gaydhani(pag3862) and Virtee Parekh (vvp2639)
-    filename: BDA_project_program.py
-    language: python3
-    version: 0.1/11-25-2017
-    description: This program implements SVM, KNN, Naive Bayes, Random Forest and Logistic regression and calculates AUC
-                    value for all models
-"""
+
 
 
 import numpy as np
